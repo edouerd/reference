@@ -8,8 +8,8 @@ Various collections of things that influence my aesthetic, ways of thinking, and
 
 Release Schedules, or when to expect drops
 
-1. Spring/Summer — June - July
-2. Winter/Fall — November - December
+1. Spring/Summer — September - December
+2. Winter/Fall — March - June
 
 —
 
