@@ -2,11 +2,15 @@ Reference
 
 —
 
-Various collections of things that influence my aesthetic, ways of thinking, and etc.
+What to expect
+
+1. Collections of things that influence my visual–designing mode, ways of thinking, etc.
+2. Snippets of work, sometimes unintelligible
+3. Snapshots of my desktop
 
 —
 
-Release Schedules, or when to expect drops
+When to expect (Release schedule)
 
 1. Spring/Summer — September - December
 2. Fall/Winter — March - June
